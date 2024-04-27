@@ -1,2 +1,3 @@
 # vendor-management-system
-A backend system for Vendor Management
+
+A system for vendor management. Assignment given by Fatmug Designs

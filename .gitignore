@@ -1,0 +1,6 @@
+# virtual envs
+
+vendor_venv
+
+# pycache folder
+**/__pycache__
